@@ -1,1 +1,4 @@
 uite scriu si eu ceva
+
+
+bun, asta e din HEAD si m-am dus la o versiune mai indepartata - sunt in HEAD si incerc sa fac un branch din HEAD-ul asta
