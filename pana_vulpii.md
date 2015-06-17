@@ -1,6 +1,5 @@
-#Issue1A solved
-aici explic issue-ul pe care l-am rezolvat, bla bla
-
+#alta tampenie
+sd fasd
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo

@@ -1,0 +1,1 @@
+astora le place sa manance soareci
